@@ -1,4 +1,4 @@
-> 基于python+django+vue.js开发的停车管理系统， 开发者微信：lengqin1024
+> 基于python+django+vue.js开发的停车管理系统， 学习过程中遇到问题，可以付费咨询：lengqin1024（微信）
 
 ### 功能介绍
 
